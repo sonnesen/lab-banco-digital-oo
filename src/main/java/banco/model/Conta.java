@@ -1,3 +1,4 @@
+package banco.model;
 
 public abstract class Conta implements IConta {
 	
